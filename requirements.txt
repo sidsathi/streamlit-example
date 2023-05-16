@@ -1,5 +1,5 @@
 altair
 pandas
 streamlit
-pillow
+Pillow
 streamlit_option_menu
